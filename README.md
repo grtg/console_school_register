@@ -1,4 +1,4 @@
-# console_school_resgister
+# console_school_register
 Assignment for C# and .NET course (CA)
 
 Tema 4
